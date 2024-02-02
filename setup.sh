@@ -19,5 +19,5 @@ chmod +x ~/.terraform.d/plugins/terraform.local/local/jamfpro/0.1.0/darwin_arm64
 
 echo "initiating terraform"
 cd ..
-cd terraform-sandbox
+cd terraform-workshop
 terraform init
