@@ -19,6 +19,8 @@ PERSONAL MAC:
 
 DEV MAC:
 
+3. Install Terraform with SelfService
+
 4. In VSCode: Clone Provider and add to workspace (command + shift + p, type clone)
     - Link: https://github.com/deploymenttheory/terraform-provider-jamfpro
     - reccomend placing at /Users/YOU/github/
