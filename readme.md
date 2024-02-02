@@ -43,6 +43,7 @@ DEV MAC:
 9. Move the new Go Binary to the `.terraform.d////darwin_arm64` folder (manually or using `mv current_dir new_dir`)
 
 10. Clone the workshop if you have not already. (Where you're reading this readme.)
+    - Link github.com/thejoeker12/terraform-workshop
 
 10. a. Navigate in the Terminal back to the workshop folder `cd /path-to-workshop-folder-you-cloned-in-step-10`
 
