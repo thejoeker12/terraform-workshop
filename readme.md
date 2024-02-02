@@ -42,7 +42,9 @@ DEV MAC:
 
 9. Move the new Go Binary to the `.terraform.d////darwin_arm64` folder (manually or using `mv current_dir new_dir`)
 
-10. Navigate in the Terminal back to the workshop folder
+10. Clone the workshop if you have not already. (Where you're reading this readme.)
+
+10a. Navigate in the Terminal back to the workshop folder
 
 11. Init Terraform in VSCode terminal (also need to be in the correct place as in step 1)
     - `terraform init`
