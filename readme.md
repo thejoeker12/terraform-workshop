@@ -15,8 +15,9 @@
 3. Install Terraform with Brew
     - Link: [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
 
-4. Clone Provider and add to workspace (command + shift + p, type clone)
+4. In VSCode: Clone Provider and add to workspace (command + shift + p, type clone)
     - Link: https://github.com/deploymenttheory/terraform-provider-jamfpro
+    - reccomend placing at /Users/YOU/github/
 
 5. Create the following folder:
     - `~./.terraform.d/plugins/terraform.local/local/jamfpro/0.1.0/darwin_arm64`
