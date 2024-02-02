@@ -66,8 +66,7 @@ DEV MAC:
     }
     ```
 
-11. Init Terraform in VSCode terminal
+17. Init Terraform in VSCode terminal
     - `terraform init`
-
 
 17. Done.
