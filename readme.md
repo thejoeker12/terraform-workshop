@@ -20,7 +20,7 @@
     - reccomend placing at /Users/YOU/github/
 
 5. Create the following folder:
-    - `/Users/YOU/terraform.d/plugins/terraform.local/local/jamfpro/0.1.0/darwin_arm64`
+    - `/Users/YOU/.terraform.d/plugins/terraform.local/local/jamfpro/0.1.0/darwin_arm64`
 
     Terminal: 
     ```
