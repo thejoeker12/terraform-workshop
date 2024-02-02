@@ -35,7 +35,7 @@ DEV MAC:
 
 6. Open VSCode Terminal
 
-7. Navigate to the provider folder in the terminal (if not there already) using `cd /path-to-provider-that-you-cloned-in-step-4`
+7. Navigate to the provider folder in the terminal (if not there already) using `cd /path-to-provider-folder-that-you-cloned-in-step-4`
 
 8. Build Provider Binary - this will make a new binary file in the provider folder
     - `go build`
@@ -44,7 +44,7 @@ DEV MAC:
 
 10. Clone the workshop if you have not already. (Where you're reading this readme.)
 
-10a. Navigate in the Terminal back to the workshop folder
+10. a. Navigate in the Terminal back to the workshop folder `cd /path-to-workshop-folder-you-cloned-in-step-10`
 
 11. Init Terraform in VSCode terminal (also need to be in the correct place as in step 1)
     - `terraform init`
