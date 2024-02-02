@@ -16,7 +16,7 @@
     - Link: [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
 
 4. Clone Provider and add to workspace (command + shift + p, type clone)
-    - Link: [terraform-provider-jamfpro](https://github.com/deploymenttheory/terraform-provider-jamfpro)
+    - Link: https://github.com/deploymenttheory/terraform-provider-jamfpro
 
 5. Create the following folder:
     - `~./.terraform.d/plugins/terraform.local/local/jamfpro/0.1.0/darwin_arm64`
