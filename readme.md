@@ -44,9 +44,9 @@
 
 13. Make a new file & name it `clientauth.json`
 
-14. Login to lbgsandbox & navigate to > Settings > API Roles & Clients > API Clients > workshopname
+14. Login to lbgsandbox & navigate to > Settings > API Roles & Clients > API Clients > workshop
 
-15. Rotate secret
+15. Rotate client secret
 
 16. Fill `clientauth.json` accordingly: 
 
