@@ -21,7 +21,7 @@ DEV MAC:
 
 3. Install Terraform with SelfService
 
-4. In VSCode: Clone Provider and add to workspace (command + shift + p, type clone)
+4. In VSCode: Clone Provider and add to workspace (command + shift + p, type clone, hit enter)
     - Link: https://github.com/deploymenttheory/terraform-provider-jamfpro
     - reccomend placing at /Users/YOU/github/
 
@@ -35,7 +35,7 @@ DEV MAC:
 
 6. Open VSCode Terminal
 
-7. Navigate to the provider folder in the terminal (if not there already) using `cd /path-to-provider`
+7. Navigate to the provider folder in the terminal (if not there already) using `cd /path-to-provider-that-you-cloned-in-step-4`
 
 8. Build Provider Binary
     - `go build`
