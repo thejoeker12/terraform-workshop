@@ -46,7 +46,7 @@ DEV MAC:
 
 10. a. Navigate in the Terminal back to the workshop folder `cd /path-to-workshop-folder-you-cloned-in-step-10`
 
-11. Init Terraform in VSCode terminal (also need to be in the correct place as in step 1)
+11. Init Terraform in VSCode terminal
     - `terraform init`
 
 12. Make a new file & name it something.tf (I use infra.tf)
