@@ -9,11 +9,15 @@
 1. Install Go from the official website.
     - Link: [Go](https://go.dev/doc/install)
 
+PERSONAL MAC:
+
 2. Install Brew
     - Link: [Brew](https://brew.sh/)
 
 3. Install Terraform with Brew
     - Link: [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
+
+DEV MAC:
 
 4. In VSCode: Clone Provider and add to workspace (command + shift + p, type clone)
     - Link: https://github.com/deploymenttheory/terraform-provider-jamfpro
