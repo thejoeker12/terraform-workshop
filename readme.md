@@ -56,7 +56,9 @@ DEV MAC:
 
 14. Login to lbgsandbox & navigate to > Settings > API Roles & Clients > API Clients > workshop
 
-15. Rotate client secret
+15. Copy client ID
+
+16. GET SECRET FROM TEAMS CHAT
 
 16. Fill `clientauth.json` accordingly: 
 
