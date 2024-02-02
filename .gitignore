@@ -1,0 +1,7 @@
+clientauth.json
+*.json
+*tfstate*
+.DS_Store
+.terraform.lock.hcl
+.terraform*
+temp.text
