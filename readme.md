@@ -37,7 +37,7 @@ DEV MAC:
 
 7. Navigate to the provider folder in the terminal (if not there already) using `cd /path-to-provider-that-you-cloned-in-step-4`
 
-8. Build Provider Binary
+8. Build Provider Binary - this will make a new binary file in the provider folder
     - `go build`
 
 9. Move the new Go Binary to the `.terraform.d////darwin_arm64` folder (manually or using `mv current_dir new_dir`)
