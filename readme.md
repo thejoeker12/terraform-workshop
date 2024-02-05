@@ -30,7 +30,7 @@ DEV MAC:
 
     Terminal: 
     ```
-    mkdir -p /Users/YOU/terraform.d/plugins/terraform.local/local/jamfpro/0.1.0/darwin_arm64
+    mkdir -p /Users/YOU/.terraform.d/plugins/terraform.local/local/jamfpro/0.1.0/darwin_arm64
     ```
 
 6. Open VSCode Terminal
